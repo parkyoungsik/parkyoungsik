@@ -28,6 +28,40 @@ const developer = {
   passion: "Building scalable web solutions with great user experience"
 };
 ```
+### My Repositories
+
+**[readme-typing-svg](https://github.com/user/readme-typing-svg)**  
+⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on...  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ★ 6.9K ⑂ 1.2K
+
+**[github-readme-streak-stats](https://github.com/user/github-readme-streak-stats)**  
+🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest...  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ★ 5.6K ⑂ 917
+
+**[custom-icon-badges](https://github.com/user/custom-icon-badges)**  
+🛠️ Allows users to more easily use Octicons and their own icons and logos on shields.io badges  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) ★ 726 ⑂ 185
+
+**[github-readme-youtube-cards](https://github.com/user/github-readme-youtube-cards)**  
+Workflow for displaying recent YouTube videos as SVG cards in your readme  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ★ 228 ⑂ 53
+
+**[unedited-for-reddit](https://github.com/user/unedited-for-reddit)**  
+Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment...  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ★ 70 ⑂ 4
+
+**[unicode-formatter](https://github.com/user/unicode-formatter)**  
+Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don’t support rich text  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ★ 70 ⑂ 15
+
+**[latex-gboard-dictionary](https://github.com/user/latex-gboard-dictionary)**  
+★ 430 ⑂ 53
+
+**[minimalistic-wallpaper-collection](https://github.com/user/minimalistic-wallpaper-collection)**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ★ 416 ⑂ 36
+
+**[table2ascii](https://github.com/user/table2ascii)**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ★ 70 ⑂ 13
 
 ---
 
