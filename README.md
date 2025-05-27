@@ -207,26 +207,6 @@ const developer = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎨 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)](https://github.com/yourusername)
-
----
-
 ## 🎯 Philosophy
 
 ```typescript
@@ -246,19 +226,3 @@ const myPhilosophy: DeveloperPhilosophy = {
   attitude: "어떤 어려움도 긍정적으로 해결해 나가겠습니다."
 };
 ```
-
----
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iiiizxc123&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iiiizxc123&theme=default" />
-</p>
-
----
-
-## 🎨 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)](https://github.com/yourusername)
-
----
