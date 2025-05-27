@@ -257,19 +257,8 @@ const myPhilosophy: DeveloperPhilosophy = {
 
 ---
 
-## 💬 나를 표현하는 해시태그
+## 🎨 Activity Graph
 
-`#불굴의의지` `#긍정의아이콘` `#협업중심` `#성장지향형`
-
----
-
-## 📬 Contact
-
-📧 Email: iiiizxc123@naver.com  
-📂 포트폴리오: [Notion 링크](https://www.notion.so/95cff13806714fefba31cc8227fc76c9?pvs=4)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)](https://github.com/yourusername)
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=iiiizxc123.iiiizxc123" />
-</p>
