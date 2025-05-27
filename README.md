@@ -28,8 +28,6 @@ const developer = {
   passion: "Building scalable web solutions with great user experience"
 };
 ```
-| [readme-typing-svg](https://github.com/user/readme-typing-svg) | ⚡ Dynamically generated, customizable SVG... | ![PHP](https://img.shields.io/badge/-PHP-777BB4) ★ 6.9K ⑂ 1.2K |
----
 
 ## 🛠️ Tech Stack
 
